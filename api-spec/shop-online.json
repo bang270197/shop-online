@@ -1,0 +1,13 @@
+{
+  "modelPackage": "com.shop-online.api.model",
+  "apiPackage": "com.shop-online.api.spec",
+  "groupId": "com.shop-online",
+  "artifactId": "shop-api-spec",
+  "artifactVersion": "1.0.0",
+  "developerName": "bang",
+  "serializableModel": true,
+  "hideGenerationTimestamp": true,
+  "dateLibrary": "legacy",
+  "java8": true,
+  "interfaceOnly": true
+}
